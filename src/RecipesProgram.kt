@@ -19,6 +19,6 @@ fun elijaOpcion (opcion: String?) {
         in "1" -> println("Opcion hacer una receta")
         in "2" -> println("Opcion ver mis recetas")
         in "3" -> println("Hasta luego, vuelva pronto")
-        else -> println("Eliga una opcion correcta")
+        else -> println("Elija una opcion correcta")
     }
 }
